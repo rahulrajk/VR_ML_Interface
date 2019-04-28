@@ -1,0 +1,100 @@
+// Chatbot's brain
+! version = 2.0
+
++ (*)show(*)image*(processing|process)
+- image1
+
++ (*)show(*)video example
+- video1
+
+
++ *(not covered|exclusions)*
+- Suicide Exclusion , Pre-Existing Disease ,Waiting Period ,Survival Period ,General Exclusions
+
++ (*)(redirect|show)*youtube links*
+- redirect1
+
++ *benifits*
+- Get lumpsum amount in the event sudden death, See off all your loans and liabilities, Provide money so that your family continues to live with pride, Term Insurance also takes care of family in case of your disability or critical illness.
+
++ (hi|hello|hey|hai)
+- Welcome to future generali. May i know what do you want to clarify?
+
++ *diabetic*get(*) term plan
+- It is possible to get term insurance or long-term care insurance if you have diabetes. Term protection is likely available to you, particularly if your diabetes is under control; you can get moderate rates if you react well to treatment and lead a healthy life.
+
++ *term insurance
+- Term insurance is a type of life insurance that covers the policyholder up to the age specified in the policy. Should the life assured die before the term is over, the beneficiary will receive a death benefit as per the policy selected. The objective of having this insurance is to provide financial coverage to the life assured and his/her family, in the event of unfortunate situations like permanent disability or death. 
+
++ *your name
+- I am your virtual voice assistant.
+
++ *level term insurance
+- Level term insurance is one of the most popular types of life insurance that offers you protection in the event of your demise within the term of the policy. The amount paid as premium as well as the sum assured does not change over the course of the policy term, unlike decreasing term insurance.
+
++ why*term insurance
+- Term insurance guarantees a pre-determined amount of money to the insured person’s nominees if the person passes away within the policy period. Term insurance for life should be a necessity if you have family members who are financially dependent on you and you are the sole breadwinner. It can likewise prove to be handy if you have liabilities like an auto loan, a home loan, or other obligations.
+
++ *benefits*term plans
+- Maturity benefits indicate the sum received by a policyholder or his/her beneficiaries when a policy matures. Typically, a traditional term insurance plan does not offer any maturity benefit. It only offers term insurance death benefit when a policyholder passes away within the policy term.
+
++ *switch*one caompany*other*
+- There is no option to transfer the Term Insurance Policy from one insurer to another. You can, however, buy a new policy from a different insurer and stop your current policy. But, buying a new policy to replace an existing one may have certain drawbacks:
+
++ *n r i after*
+- Your term life insurance will continue even after you turn into an NRI. However, the essential documents stating your status change must be intimated to the insurance company. In addition, you must update your KYC status as Non- Residential Indian in all your existing policies.
+
++ *(exclusions|does not cover)*
+- The following are the exclusions of the term plan in India: Suicide,Death due to self-inflicted injury, Death due to sexually transmitted diseases like HIV or AIDS, Death due to the pre-existing health conditions, Death caused due to the involvement in illegal activities, Accidental death due to driving under the influence of alcohol or drugs, Death due to the participation in racing activities like bike racing or car racing, Death due to the participation in adventure activities like bungee jumping, trekking, hiking, water sports etc. Death due to pregnancy and childbirth,
+
++ *pension*(differ|different)*term plan
+- Term insurance coverage allows your nominees to receive the guaranteed death benefit in the event of your untimely demise. However, in the case of a pension plan, once the policy matures, you or your nominees are entitled to receive the corpus that you have built over time.
+
++ *(worth|useful)*term plan*(over (60|sixty) years*|senior citizens)
+- Yes, there are circumstances where buying term life insurance over 60 years of age is worthwhile. Let’s plunge in such scenarios a bit deeper and see which broad life situations make purchasing a term plan in your senior years beneficial: If your kids or grandchildren are studying and are financially dependent on you, buying term life insurance is imperative. In case if your spouse is dependent on your pension which would stop after your demise, you would need a term insurance plan
+
++ (*)how long*
+- While buying a term policy in your 20s, you can opt for a term duration of 40 years. Additionally, at a young age, you can fix the premiums at much lower rates. You can opt for a term of 35 to 40 years. It relies upon how long you are planning to work till the time you retire, your dependents, and your liabilities. When in the 40s, you can pick a term duration of 20 to 25 years.By the time you hit your 50s, generally your children are grown up and independent, and your liabilities are lower. Therefore, it is prudent to decide on a term of 10 to 15 years.
+
++ *decreasing term insurance
+- It is a type of term insurance where the policyholder pays a constant premium, but the coverage amount or the sum assured, decreases every year by a fixed percentage, either on a monthly, quarterly, or yearly basis. Decreasing term insurance, also known as mortgage term insurance, is usually bought by homeowners to pay off debts and loans to ensure their mortgage is settled after their death. This term policy tends to be an economical way to protect one’s beneficiaries should the person die unexpectedly during a period when he/she has substantial financial responsibilities. In the event of the person’s demise during the policy period, the available sum assured is paid towards loan repayment thus taking care of the outstanding loan amount. However, decreasing term policy is not just taken to cover mortgages. Some may choose this life cover because they do not feel the need of a big payout if they die in, say, next 10 to 20 years, and want to save money on premiums .
+
++ *level term insurance
+- Level term insurance is one of the most popular types of life insurance that offers you protection in the event of your demise within the term of the policy. The amount paid as premium as well as the sum assured does not change over the course of the policy term, unlike decreasing term insurance.
+
++ *terminal illness cover
+- Terminal insurance is very similar to term insurance cover but instead of death benefit it provides tax-free lump sum when diagnosed with terminal illness. Terminal illness benefit is defined as benefit paid when the estimated survival period of life assured is less than 12 months. This is certified by a medical doctor.  Purchasing this insurance gives you the security that a guaranteed amount will be paid if the unforeseen happens and you are diagnosed with a terminal illness .
+
++ *avail loan*term *
+- No, you cannot avail loans on term insurance plans because such term plans do not contain cash value and expire at the end of their policy period without earning any returns. Therefore, banks cannot consider term life insurance as collateral against loans .
+
+
++ *life insurance
+- Life insurance is a financial contract to provide the nominee of the covered individual with a sum of money as decided in the contract. This sum of money is called sum assured in life insurance contract. The covered individual or insured must pay a nominal sum to continue the contract, which is called premium . Anyone with an income can buy life insurance to offer financial protection to their loved ones.
+
++ *types*(life insurance plans|life insurance|insurance|policy|life insurance policy|this policy)
+- Term Life Insurance,Endowment Plans,Money Back Plans,Unit Linked Investment Plans,Annuity or Pension Plans .
+
++ *riders*(life insurance plans|life insurance|insurance|policy|life insurance policy|this policy)
+- Riders provide additional insurance cover for a nominal premium. Future Generali Life Insurance offers following types of riders with the life insurance plans,Accidental Death rider,Accidental Total & Permanent Disability Rider .
+
++ *(life insurance|life insurance|insurance|policy|life insurance policy|this policy) cover*
+- Basic life insurance need for any individual should be such that it provides the family dependent on them sufficient money to maintain the same lifestyle and meet their financial goals in the individual’s absence.The money needed for such cover should be usually 20 to 25 times of the annual income of the individual. It is a good practice to revise the cover once your income has grown significantly in future.
+
++ *need (life insurance|life insurance|insurance|policy|life insurance policy|this policy)
+- Medical emergencies are expensive, be it a minor accident or a major critical illness, the costs can quickly cripple your bank account. It is tempting to avoid every month deduction of premiums from your bank account, and when you are young, it is easy to undermine the importance of health insurance. However, in the long run, this undermining can cost you a fortune and leave you in debt if the treatment goes longer than you expect. By buying health insurance, you can be sure that even if you don’t have regular income during the treatment, you won’t be left high and dry.
+
++ *cancel *(life insurance plans|life insurance|insurance|policy|life insurance policy|this policy)
+- Yes, in case you cancel the policy within 15 days ,30 days if the policies sold through direct marketing mode, of its receipt for cancellation, stating your objections. The company will refund the policy premium after the deduction of stamp duty charges, medical expenses, if any and proportional risk premium for a period of cover, if any.
+
++ *exclusions of *(life insurance plans|life insurance|insurance|policy|life insurance policy|this policy)
+- Suicide Exclusion,Pre-Existing Diseases,Waiting Period,Survival Period .
+
++ *(tax benefits|other benefits|benefits)
+- Tax benefits Under Section 80C,Investing in a life insurance policy allows you to avail of several tax benefits under Section 80C. Tax saving terms under this section are:You can avail tax deductions up to Rs. 1,50,000 under this section;The deduction is allowed up to 10% premium of the sum assured for policies purchased after 1st April 2012;For policies issued before 1st April 2012, deductions on premium are allowed up to 20%of the sum assured (even if the holder pays more than 20% of the sum assured in one financial year);If the insurance policy is discontinued within two years if its commencement, the tax benefits received would be reversed;Tax Benefits Under Section 10 (10D)Under Section 10(10D), any sum received at maturity of a Life Insurance Policy, is exempted from tax. However, this exemption is not applicable to:Amount received under Section 80DDA(3) or 80DD(3);Maturity benefits received under a Keyman Insurance Policy;Sum received under any insurance policy (other than as death benefit) issued on or after April 1, 2003, during the term of which the premium paid is more than 20% of the sum assured;
+
++ *
+- sorry would you tell that again
+- May be i didn't hear well please tell me again
+ 
+ 
